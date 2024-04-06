@@ -1,4 +1,4 @@
 # apna-college
 this is my first github rpository.
 <br>
-author - Dnyaneshwar Konpratwar
+author - Dnyaneshwar (Apna college)
